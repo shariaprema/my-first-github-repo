@@ -1,0 +1,18 @@
+.git{
+    background-color: aqua;
+    color: red;
+    font-size: 30px;
+    width: 70%;
+    height: 400px;
+    display: inline-block;
+    margin: 10px;
+    padding: 30px;
+    text-align: justify;
+
+}
+
+.hub{
+
+    background-color: orangered;
+    color: black;
+}
